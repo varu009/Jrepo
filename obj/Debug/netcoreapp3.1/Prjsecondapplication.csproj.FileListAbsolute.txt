@@ -1,0 +1,13 @@
+D:\.Net\day2\Prjsecondapplication\obj\Debug\netcoreapp3.1\Prjsecondapplication.csproj.AssemblyReference.cache
+D:\.Net\day2\Prjsecondapplication\obj\Debug\netcoreapp3.1\Prjsecondapplication.AssemblyInfoInputs.cache
+D:\.Net\day2\Prjsecondapplication\obj\Debug\netcoreapp3.1\Prjsecondapplication.AssemblyInfo.cs
+D:\.Net\day2\Prjsecondapplication\obj\Debug\netcoreapp3.1\Prjsecondapplication.csproj.CoreCompileInputs.cache
+D:\.Net\day2\Prjsecondapplication\bin\Debug\netcoreapp3.1\Prjsecondapplication.exe
+D:\.Net\day2\Prjsecondapplication\bin\Debug\netcoreapp3.1\Prjsecondapplication.deps.json
+D:\.Net\day2\Prjsecondapplication\bin\Debug\netcoreapp3.1\Prjsecondapplication.runtimeconfig.json
+D:\.Net\day2\Prjsecondapplication\bin\Debug\netcoreapp3.1\Prjsecondapplication.runtimeconfig.dev.json
+D:\.Net\day2\Prjsecondapplication\bin\Debug\netcoreapp3.1\Prjsecondapplication.dll
+D:\.Net\day2\Prjsecondapplication\bin\Debug\netcoreapp3.1\Prjsecondapplication.pdb
+D:\.Net\day2\Prjsecondapplication\obj\Debug\netcoreapp3.1\Prjsecondapplication.dll
+D:\.Net\day2\Prjsecondapplication\obj\Debug\netcoreapp3.1\Prjsecondapplication.pdb
+D:\.Net\day2\Prjsecondapplication\obj\Debug\netcoreapp3.1\Prjsecondapplication.genruntimeconfig.cache
